@@ -1,4 +1,4 @@
-Samples to demonstrate usage of WorkerGo package.
+Samples to demonstrate usage of WorkerGo package: [https://github.com/yasarix/workergo](https://github.com/yasarix/workergo)
 
 ## sample.go
 
