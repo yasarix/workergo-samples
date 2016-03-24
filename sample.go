@@ -11,7 +11,7 @@ type Task struct {
 }
 
 func main() {
-	d := workergo.NewDispatcher(3, false)
+	d := workergo.NewDispatcher(3, 10)
 	d.Run()
 	defer d.Stop()
 
